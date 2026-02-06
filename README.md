@@ -39,4 +39,3 @@ The dashboard analyzes automobile sales performance across different time period
 2. Open in **Microsoft Excel (2016 or later recommended)**.
 3. Interact with Pivot Tables, filters, and charts to explore insights.
 
-## Au
