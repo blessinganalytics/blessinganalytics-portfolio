@@ -1,18 +1,42 @@
 # blessinganalytics-portfolio
 ## Project Overview
-This portfolio showcases analytics projects using Python, R, Excel, Power BI, and Tableau. Projects focus on data visualization, predictive modeling, and business intelligence solutions.
-## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- R (tidyverse, ggplot2, caret)
-- Microsoft Excel (data cleaning, pivot tables, dashboards)
-- Power BI (interactive dashboards and reporting)
-- Tableau (data visualization and insights)
-## Key Features
-- Data preprocessing and analysis with Python and R
-- Visualizations and dashboards in Excel, Power BI, and Tableau
-- Predictive modeling using machine learning
-- Interactive and shareable business intelligence dashboards
+# US Automobile Sales Dashboard (Excel)
+
+## Project Overview
+
+This project presents an interactive **US Automobile Sales Dashboard** created using **Microsoft Excel**.
+The dashboard analyzes automobile sales performance across different time periods, categories, and regions to support **data-driven business decision-making**.
+
+## Objectives
+
+* Explore trends in automobile sales over time
+* Identify top-performing vehicle categories and regions
+* Provide clear visual insights for business strategy and forecasting
+
+## Tools & Techniques Used
+
+* **Microsoft Excel**
+* Pivot Tables & Pivot Charts
+* Data Cleaning & Transformation
+* Interactive Dashboard Design
+* Data Visualization (Bar charts, Line charts, Summary metrics)
+
+## Key Insights
+
+* Sales trends reveal **periodic growth and seasonal fluctuations** in automobile demand.
+* Certain **vehicle categories consistently outperform** others in total revenue.
+* Regional comparisons highlight **high-performing markets** that may guide future investment and marketing focus.
+
+## Files in This Repository
+
+* `US_Automobile_Sales_Dashboard.xlsx` → Full Excel dashboard and analysis
+* `Screenshot.png` → Preview image of the dashboard visualization
+* `README.md` → Project documentation
+
 ## How to Use
-1. Clone the repository: `git clone https://github.com/blessingedetc/blessinganalytics-portfolio.git`
-2. Explore Python scripts and R notebooks
-3. Open Excel, Power BI, or Tableau files to view dashboards and visualizations
+
+1. Download the Excel file from this repository.
+2. Open in **Microsoft Excel (2016 or later recommended)**.
+3. Interact with Pivot Tables, filters, and charts to explore insights.
+
+## Au
