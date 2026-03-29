@@ -1,41 +1,48 @@
-# blessinganalytics-portfolio
-## Project Overview
-# US Automobile Sales Dashboard (Excel)
+Blessing Christopher Edet – Business Analytics Portfolio
 
-## Project Overview
+I am a Business Analytics graduate with a background in Accounting, passionate about using data to drive decision-making, improve business performance, and support sustainable solutions.
 
-This project presents an interactive **US Automobile Sales Dashboard** created using **Microsoft Excel**.
-The dashboard analyzes automobile sales performance across different time periods, categories, and regions to support **data-driven business decision-making**.
+🔧 Skills
 
-## Objectives
+- Microsoft Excel (Data Analysis, Pivot Tables, Dashboards)
+- Power BI (Data Visualization, Interactive Dashboards)
+- SQL
+- Python
+- Tableau
 
-* Explore trends in automobile sales over time
-* Identify top-performing vehicle categories and regions
-* Provide clear visual insights for business strategy and forecasting
+---
 
-## Tools & Techniques Used
+📊 Featured Projects
 
-* **Microsoft Excel**
-* Pivot Tables & Pivot Charts
-* Data Cleaning & Transformation
-* Interactive Dashboard Design
-* Data Visualization (Bar charts, Line charts, Summary metrics)
+1. Sales Performance Dashboard (Power BI)
 
-## Key Insights
+- Analyzed sales data to identify revenue trends and regional performance differences
+- Built an interactive dashboard to support business decision-making
+- Provided insights to improve sales strategy and performance
 
-* Sales trends reveal **periodic growth and seasonal fluctuations** in automobile demand.
-* Certain **vehicle categories consistently outperform** others in total revenue.
-* Regional comparisons highlight **high-performing markets** that may guide future investment and marketing focus.
+2. Financial Analysis (Excel)
 
-## Files in This Repository
+- Conducted financial data analysis to evaluate business performance
+- Used pivot tables and visualizations to identify key trends
+- Generated insights to support financial planning
 
-* `US_Automobile_Sales_Dashboard.xlsx` → Full Excel dashboard and analysis
-* `Screenshot.png` → Preview image of the dashboard visualization
-* `README.md` → Project documentation
+3. Data Analysis Project (Python)
 
-## How to Use
+- Analyzed datasets using Python to uncover patterns and trends
+- Applied data cleaning and visualization techniques
+- Provided insights to support data-driven decisions
 
-1. Download the Excel file from this repository.
-2. Open in **Microsoft Excel (2016 or later recommended)**.
-3. Interact with Pivot Tables, filters, and charts to explore insights.
+4. Tableau Dashboard
 
+- Developed interactive dashboards to visualize business data
+- Highlighted trends and key performance indicators
+- Communicated insights effectively for decision-making
+
+---
+
+📫 Contact
+
+- LinkedIn: www.linkedin.com/in/
+blessingchristopheredet
+
+- Email: blessing.edetc@gmail.com
