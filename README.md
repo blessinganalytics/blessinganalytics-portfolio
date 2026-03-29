@@ -38,6 +38,11 @@ I am a Business Analytics graduate with a background in Accounting, passionate a
 - Highlighted trends and key performance indicators
 - Communicated insights effectively for decision-making
 
+- ### Business Impact
+- Helped identify high-performing regions driving revenue  
+- Highlighted underperforming areas needing strategic improvement  
+- Supported data-driven decision-making for sales optimization
+
 ---
 
 📫 Contact
