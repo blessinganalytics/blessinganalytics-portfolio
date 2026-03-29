@@ -1,4 +1,4 @@
-Blessing Christopher Edet – Business Analytics Portfolio
+# Blessing Christopher Edet – Business Analyst Portfolio
 
 I am a Business Analytics graduate with a background in Accounting, passionate about using data to drive decision-making, improve business performance, and support sustainable solutions.
 
